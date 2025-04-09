@@ -1,3 +1,3 @@
-Mian Muhammad Haris Samran
-35495546
-https://mhsrealestate.site
+Name : Mian Muhammad Haris Samran
+ID : 35495546
+Link : https://mhsrealestate.site
